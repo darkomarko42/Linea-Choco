@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Linea Choco
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Linea Choco
+MetacityTheme=Linea Choco
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
